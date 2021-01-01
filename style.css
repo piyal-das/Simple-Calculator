@@ -1,0 +1,39 @@
+body{
+    margin: 0
+}
+.main-area{
+    margin: 100px 10px;
+}
+.main{
+    height: 400px;
+    width: 300px;
+    /* border: 1px solid red; */
+    /* border-radius: 10px; */
+    box-shadow: 5px 5px 10px gray;
+}
+.line{
+    margin: 10px 10px;
+}
+.btn{
+    font-size: 18px;
+    height: 45px;
+    width: 55px;
+    cursor: pointer;
+    /* padding: 10px 20px; */
+    margin-left: 10px;
+}
+.last-button{
+    width: 125px;
+}
+input{
+    height: 60px;
+    margin-top: 10px;
+    font-weight: bold;
+    text-align: right;  
+}
+#display{
+    font-size: 30px
+}
+.btn-warning{
+    font-weight: bold;
+}
